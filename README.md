@@ -1,16 +1,19 @@
-## Hi there 👋
+## About me
+I'm a **Backend Developer** and **Software Engineer**. 
 
-<!--
-**42agrun/42agrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing algorithms, parsing data and calculating complex outcomes is just the kind of thing I love to do. *Coding is like a puzzle to me that's waiting to be solved.*
 
-Here are some ideas to get you started:
+I possess **administrative skills** from prior work experience as a student assistant and high school teacher (*subjects: italian & history*). I'm used to taking responsibility for myself and others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **
+**I'm currently looking for an IT-internship position.**
+*   **
+
+* **Coding languages:** 
+  * C/C++, Java/JavaScript, Python.
+* **Other areas of skill:**
+  * docker, virtual machines, server-frameworks, quality assurance.
+* **Certified teacher:** 
+  * affinity for sharing knowledge and explaining complexities in a comprehensible manner.
+* **Administrator:** 
+  * managed an office for 4 years at Humboldt University (Berlin).
