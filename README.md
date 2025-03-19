@@ -6,7 +6,7 @@ Writing algorithms, parsing data and calculating complex outcomes is just the ki
 I possess **administrative skills** from prior work experience as a student assistant and high school teacher (*subjects: italian & history*). I'm used to taking responsibility for myself and others.
 
 *   **
-**I'm currently looking for an IT-internship position.**
+**I'm currently looking for my first IT job.**
 *   **
 
 * **Coding languages:** 
