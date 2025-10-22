@@ -8,7 +8,7 @@ I possess **administrative skills** from prior work experience as a student assi
 * **Coding languages:** 
   * C/C++, Java/JavaScript, Python.
 * **Other areas of skill:**
-  * docker, virtual machines, server-frameworks, quality assurance.
+  * docker, virtual machines, server-frameworks, quality assurance, cyber-security, requirements engineering.
 * **Certified teacher:** 
   * affinity for sharing knowledge and explaining complexities in a comprehensible manner.
 * **Administrator:** 
